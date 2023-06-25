@@ -59,8 +59,8 @@ Ejder Aysun <ejderaysunn@gmail.com>
 &ensp;&ensp;&ensp;Şenay Selin Ünal  
 &ensp;&ensp;&ensp;Tareq Alhammoodi
 
-#### SE216 Course Assistan(s):
-&ensp;&ensp;&ensp;Res. Asst. Serhat Uzunbayır
+SE 216 Course Lecturer, [Asst. Prof. İbrahim ZİNCİR](https://people.ieu.edu.tr/en/ibrahimzincir/main)  
+SE 216 Course Assistant, [Res. Asst. Serhat UZUNBAYIR](https://people.ieu.edu.tr/en/serhatuzunbayir/main)
 
 ---
 ## Licence & Copyright
