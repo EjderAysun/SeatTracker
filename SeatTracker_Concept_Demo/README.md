@@ -24,8 +24,8 @@ You can access the SeatTracker Concept Demo presentation video by clicking [here
 
 ---
 ## Screenshots
-![Game_ss](https://github.com/EjderAysun/SE226-Lab-Tasks/assets/71559273/151248fa-bad6-40fa-b7da-37e768aadcc5)
-![Restaurant](https://github.com/EjderAysun/SE226-Lab-Tasks/assets/71559273/17ecca54-e59a-404a-8089-91fbe4258601)
+![Restaurant_Screen](https://github-production-user-asset-6210df.s3.amazonaws.com/71559273/239657940-151248fa-bad6-40fa-b7da-37e768aadcc5.png)
+![Restaurant](https://github-production-user-asset-6210df.s3.amazonaws.com/71559273/239657943-17ecca54-e59a-404a-8089-91fbe4258601.png)
 
 ---
 ## Technologies
