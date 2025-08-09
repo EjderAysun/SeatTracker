@@ -36,7 +36,8 @@ You can access the SeatTracker Concept Demo presentation video by clicking [here
 
 ---
 ## Status
-Released; project is complete, but might receive some updates
+~~Released; project is complete, but might receive some updates~~  
+Project is complete
 
 ---
 ## Inspiration
@@ -59,8 +60,8 @@ Ejder Aysun <ejderaysunn@gmail.com>
 &ensp;&ensp;&ensp;Şenay Selin Ünal  
 &ensp;&ensp;&ensp;Tareq Alhammoodi
 
-SE 216 Course Lecturer, [Asst. Prof. İbrahim ZİNCİR](https://people.ieu.edu.tr/en/ibrahimzincir/main)  
-SE 216 Course Assistant, [Res. Asst. Serhat UZUNBAYIR](https://people.ieu.edu.tr/en/serhatuzunbayir/main)
+SE 216 Course Lecturer, [İbrahim ZİNCİR](https://people.ieu.edu.tr/en/ibrahimzincir/main)  
+SE 216 Course Assistant, [Serhat UZUNBAYIR](https://people.ieu.edu.tr/en/serhatuzunbayir/main)
 
 ---
 ## Licence & Copyright
